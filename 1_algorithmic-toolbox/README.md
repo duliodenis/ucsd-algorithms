@@ -13,5 +13,7 @@ Week  | Name
 4. | [Divide & Conquer](week-4)
 5. | [Dynamic Programming](week-5)
 
+[Course Certificate](https://www.coursera.org/account/accomplishments/certificate/GSAXZM5HHR6N)
+
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
