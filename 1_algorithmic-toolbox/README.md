@@ -7,11 +7,11 @@ The course session is 5 Weeks of Study with Problem Sets assigned weekly:
 
 Week  | Name
 ------------- | -------------
-1. | [Simple Code Problems](https://github.com/duliodenis/ucsd-algorithms/tree/master/1_algorithmic-toolbox/week-1)
-2. | [Introduction](https://github.com/duliodenis/ucsd-algorithms/tree/master/1_algorithmic-toolbox/week-2)
-3. | [Greedy Algorithms](https://github.com/duliodenis/ucsd-algorithms/tree/master/1_algorithmic-toolbox/week-3)
-4. | [Divide & Conquer](https://github.com/duliodenis/ucsd-algorithms/tree/master/1_algorithmic-toolbox/week-4)
-5. | Dynamic Programming
+1. | [Simple Code Problems](week-1)
+2. | [Introduction](week-2)
+3. | [Greedy Algorithms](week-3)
+4. | [Divide & Conquer](week-4)
+5. | [Dynamic Programming](week-5)
 
 ### Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
