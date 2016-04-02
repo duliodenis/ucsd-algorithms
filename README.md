@@ -1,5 +1,5 @@
 # UCSD Algorithms
-![](https://raw.githubusercontent.com/duliodenis/ucsd-algorithms/master/art/Specialization-Header.png)
+![](art/Specialization-Header.png?raw=true)
 
 This repository is a collection of the problem sets and starter files in the University of California, San Diego, Data Structures &amp; Algorithms Specialization. My submitted solutions to these problem sets are in a private repo due to the University's Code of Honor.
 
@@ -9,8 +9,8 @@ The five courses, and Capstone project, in the Specialization are:
 
 Course  | Name
 ------------- | -------------
-1. | [Algorithmic Toolbox](https://github.com/duliodenis/ucsd-algorithms/tree/master/1_algorithmic-toolbox)
-2. | Data Structures
+1. | [Algorithmic Toolbox](1_algorithmic-toolbox)
+2. | [Data Structures](2_data-structures)
 3. | Algorithms on Graphs and Trees
 4. | Algorithms on Strings
 5. | Advanced Algorithms and Complexity
